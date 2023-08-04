@@ -1,0 +1,29 @@
+.Navbar-section {
+  background-color: #2c0e3a;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 40px 15px 40px;
+}
+.score-time {
+  display: flex;
+}
+.time-box {
+  display: flex;
+  align-items: center;
+}
+.logo {
+  height: 30px;
+}
+.time {
+  height: 18px;
+  margin-right: 8px;
+}
+.score {
+  color: white;
+  font-size: 12px;
+  padding-right: 25px;
+}
+.sec {
+  font-size: 17px;
+  color: #fec653;
+}
